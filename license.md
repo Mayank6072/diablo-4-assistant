@@ -220,4 +220,4 @@ simply how these tools work in practice.
 
 ---
 
-*diablo-4-assistant · Updated 2026-10-24 · Shared under the MIT License*
+*diablo-4-assistant · Updated 2026-10-25 · Shared under the MIT License*
